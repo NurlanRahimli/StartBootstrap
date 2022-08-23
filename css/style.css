@@ -1,0 +1,113 @@
+.bg-img1{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg-img2{
+    background-color: black;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/map-image.png);
+    background-position: center;
+    background-size: cover;
+    
+
+}
+
+
+
+.w-60{width: 60%;}
+
+.text-0061f2{color: #0061f2;}
+.text-69707A{color: #69707a;}
+.text-grey{color: #6C757D;}
+
+
+.bg-black{background-color: black;}
+.bg-color1{background-color: rgba(33, 40, 50, 0.03);}
+.bg-yellow{background-color: #FED136;}
+.bg-grey{background-color: #F8F9FA;}
+
+.fw-700{font-weight: 700;}
+.fs-12{font-size: 12px;}
+.fs-18{font-size: 18px;}
+.fs-36{font-size: 36px;}
+.fs-16{font-size: 16px;}
+.fs-72{font-size: 72px;}
+
+
+.py-200{
+    padding-top: 200px;
+    padding-bottom: 250px;
+}
+.py-100{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.pe-100{padding-right: 300px;}
+.pbt-2{padding-bottom: 1.5rem;}
+
+.ls-2{letter-spacing: 2px;}
+.brt-5{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+
+
+.color-white{color: #fff;}
+
+.hover-cba107cc:hover{
+    background-color: #cba107cc;
+    color:#fff
+}
+.hover-yellow:hover{
+    color: #FED136;
+}
+.hover1:hover{
+    transition: .5s;
+    transform: translateY(-10px);
+    box-shadow: 7px 7px 14px -3px rgba(0,0,0,0.7);
+    -webkit-box-shadow: 7px 7px 14px -3px rgba(0,0,0,0.7);
+    -moz-box-shadow: 7px 7px 14px -3px rgba(0,0,0,0.7);
+    cursor: pointer;
+}
+.shadow1{box-shadow: 7px 7px 38px -16px rgba(0,0,0,0.7);
+    -webkit-box-shadow: 7px 7px 38px -16px rgba(0,0,0,0.7);
+    -moz-box-shadow: 7px 7px 38px -16px rgba(0,0,0,0.7);}
+
+
+.br-5{border-radius: 5px;}
+
+
+.circle-yellow{
+    background-color: #cba107cc;
+    border-radius: 50%;
+    height: 240px;
+
+}
+.service-icon i{
+    background-color: #ffc800;
+    color: #fff;
+    display: inline-block;
+    vertical-align: middle;
+    height: 8rem;
+    position: relative;
+    width: 8rem;
+    line-height: 8.5rem;
+    font-size: 3.25rem;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+}
+
+.circle-46{
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 15px 
+  }
+
+
